@@ -35,7 +35,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphgamingz&langs_count=8&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raph-h&langs_count=8&layout=compact&theme=vision-friendly-dark)
 
-![Raph's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphgamingz&theme=vision-friendly-dark)
+![Raph's GitHub stats](https://github-readme-stats.vercel.app/api?username=raph-h&theme=vision-friendly-dark)
 
