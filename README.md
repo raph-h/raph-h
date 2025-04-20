@@ -1,9 +1,9 @@
 <h1 align="center"> Hey there 👋, I'm Raph</h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=raphgamingz&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=raph-h&theme=onedark)
 <!--**RaphGamingz/RaphGamingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on [Projects](https://github.com/RaphGamingz?tab=repositories)
+- 🔭 I’m currently working on [Projects](https://github.com/raph-h?tab=repositories)
 - 🌱 I’m currently learning C, C++, Rust
 - ⚡ Fun fact: I code
 ## Languages:
